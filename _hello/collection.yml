@@ -2,4 +2,4 @@ collections:
   hello:
     output: true
     order:
-      - Example Page.md
+      - Page.md
