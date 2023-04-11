@@ -24,9 +24,3 @@ description: ""
 		<td>blue</td>
 	</tr>
 </tbody></table>
-
-|one | two | three |
-| -------- | -------- | -------- |
-| apple     | pear     | orange     |
-| red | green | blue |
-
