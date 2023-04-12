@@ -11,30 +11,22 @@ description: ""
 
 <br>
 
-<style>
-	table, td
-	{
-	border: 1px solid black;
-	border-collapse: collapse;
-	}
-</style>
-	
 <table>
 	<tbody>
 		<tr>
-			<td>one</td>
-			<td>two</td>
-			<td>three</td>
+			<td style="border: 1px solid;">one</td>
+			<td style="border: 1px solid;">two</td>
+			<td style="border: 1px solid;">three</td>
 		</tr>
 		<tr>
-			<td>apple</td>
-			<td>pear</td>
-			<td>orange</td>
+			<td style="border: 1px solid;">apple</td>
+			<td style="border: 1px solid;">pear</td>
+			<td style="border: 1px solid;">orange</td>
 		</tr>
 		<tr>
-			<td>red</td>
-			<td>green</td>
-			<td>blue</td>
+			<td style="border: 1px solid;">red</td>
+			<td style="border: 1px solid;">green</td>
+			<td style="border: 1px solid;">blue</td>
 		</tr>
 	</tbody>
 </table>
