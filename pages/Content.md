@@ -8,8 +8,17 @@ description: ""
 <div class="bp-youtube">
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DhwSli5YjSA" height="315" width="560"></iframe>
 	</div>
-	
 
+<br>
+
+<style>
+	table, td
+	{
+	border: 1px solid black;
+	border-collapse: collapse;
+	}
+	</style>
+	
 <table>
 	<tbody><tr>
 		<td>one</td>
